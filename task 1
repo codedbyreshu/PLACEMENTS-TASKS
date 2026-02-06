@@ -1,0 +1,199 @@
+#TASK 1 (30.01.2026)
+What is a Smart Contract Developer?
+A Smart Contract Developer is a blockchain programmer who writes, tests, and deploys smart contracts — self-executing code that runs on blockchains like Ethereum, Binance Smart 		
+________________________________________
+Common Job Roles in India
+1. Smart Contract Developer
+•	Write Solidity / Vyper code
+•	Deploy contracts on testnets & mainnets
+•	Optimize for gas efficiency and security
+•	Work with ERC standards (ERC-20, ERC-721) 
+ 2. Blockchain Developer
+•	Full blockchain app development (backend + frontend)
+•	Integrate smart contracts into dApps
+•	Use tools like Web3.js, Ethers.js 
+ 3. Smart Contract Auditor / Tester
+•	Test contracts for bugs
+•	Ensure security best practices
+•	Use testing frameworks (Hardhat, Truffle) 
+4. Web3 Full-Stack Engineer
+•	Build complete decentralized applications (smart contracts + front-end)
+•	Often require React, Node.js plus Solidity 
+________________________________________
+Skills Required (Especially for Freshers)
+Core Technical Skills
+1️.Solidity — primary language for smart contracts
+2️. Blockchain fundamentals (consensus, cryptography)
+3️. Tools:
+•	Truffle / Hardhat / Remix
+•	Web3.js / Ethers.js 
+Other Important Skills
+•	JavaScript / TypeScript
+•	Understanding of token standards (ERC-20, ERC-721)
+•	Unit testing & debugging
+•	Security basics (reentrancy, overflow checks) 
+Additional Helpful Skills
+•	Basic backend (Node.js, Python)
+•	Frontend frameworks (React)
+•	Git & version control
+________________________________________
+For Freshers – How to Start
+✔ Learn Solidity and blockchain basics
+✔ Build small projects:
+•	Token contracts
+•	Simple dApps
+✔ Deploy on testnets (Goerli, Mumbai)
+✔ Create a GitHub portfolio with code
+✔ Participate in hackathons and open-source
+✔ Get certifications or courses (Chainlink, Consensys)
+________________________________________
+Companies Hiring Smart Contract Developers in India
+🔹 Blockchain & Web3 Startups
+•	Antier Solutions – Smart contract and dApp roles 
+•	NeoGenCode Technologies – Web3 & smart contract positions 
+•	Mobiloitte Technologies – Blockchain dev roles including smart contracts 
+🔹 Tech Firms with Blockchain Teams
+•	Topskill.io – Blockchain developer roles (incl. smarts contract) 
+•	WebMobril Inc. – Blockchain & smart contract jobs 
+•	Flexsin Inc. – Software Engineer – Blockchain & smart contracts 
+🔹 Other Active Employers
+•	QualiTLabs – NFT & tokenization engineers 
+•	Rejolut Technology – Fresher blockchain developer roles 
+(Many other firms advertise on job sites like Indeed, LinkedIn & Cutshort) 
+________________________________________
+Expected Salaries in India
+(2025–26 trends)
+•	Junior / Fresher: ~₹15–30 LPA
+•	Mid Level: ~₹30–60 LPA
+•	Senior / Lead: ₹60 LPA – ₹1 Cr+
+(top specialists, auditors, or architects with deep security experience may earn well above these ranges) 
+________________________________________
+How to Get Hired Faster in India
+🔹 1. Build Real Projects
+Deploy smart contracts on testnets and link them in your portfolio. Practical work matters more than certificates.
+🔹 2. Focus on Security Skills
+Understanding vulnerabilities (reentrancy, gas optimization) is a huge advantage — companies pay more for secure devs.
+🔹 3. Learn Supporting Tools
+Hardhat, Truffle, Foundry — these make you more efficient than just knowing Solidity.
+🔹 4. Network Actively
+•	LinkedIn
+•	GitHub
+•	Web3 communities & hackathons
+Connections often lead to job referrals.
+🔹 5. Freelance or Internship First
+Sites like Upwork or Toptal help you get initial experience and visibility. 
+________________________________________
+Quick Summary (Exam / Interview Ready)
+•	Smart Contract Developer: Builds, tests, and deploys self-executing blockchain contracts.
+•	Skills Required: Solidity, blockchain basics, testing tools, security awareness.
+•	Top Hiring Companies: Antier Solutions, Topskill.io, NeoGenCode, Mobiloitte, Flexsin, WebMobril.
+•	Job Roles: Smart Contract Developer, Blockchain Developer, Web3 Engineer, Auditor.
+•	Faster Hiring Tips: Build real projects, focus on security, use testnets, network actively, freelance early.
+
+#Blockchain Job Roles at Wipro, Infosys & Accenture — Skills & Responsibilities
+________________________________________
+1. Overview — What These Roles Cover
+Blockchain roles in major IT consultancies focus on:
+•	Distributed Ledger Technology (DLT) development
+•	Smart contract design & security
+•	Enterprise blockchain solutions (finance, supply chain, identity)
+•	Integration with legacy systems & cloud platforms
+•	Scalable and secure architecture
+These companies hire at multiple levels — Developer, Architect, Consultant, and Specialist/SME roles.
+________________________________________
+2. Wipro — Blockchain & Distributed Ledger Roles
+📌 Typical Roles
+•	Blockchain Developer / Java + Crypto Developer
+•	Blockchain Consultant
+•	Blockchain Architect / CTO – Blockchain Consultant
+Skills Required (Junior to Mid)
+•	Backend languages: Java, Node.js, JavaScript
+•	Blockchain platforms: Bitcoin, Ethereum, Hyperledger (Fabric/Composer), Corda
+•	APIs & Distributed Systems: REST/SOAP, JSON, microservices
+•	Development lifecycle: SDLC, version control, CI/CD
+•	Understanding of DeFi apps, private key custody, distributed ledgers 
+Skills Required (Senior / Architect)
+•	Strategic solution design (stablecoins, tokenization, trading systems)
+•	Platform selection (EVM, Cosmos, Solana)
+•	Smart contract security and compliance oversight
+•	Custody/MPC/HSM and KYC/AML integration
+•	Cloud, containerization & DevOps practices 
+🔹 Role Responsibilities
+•	Building and deploying blockchain solutions
+•	Guiding architectural decisions
+•	Ensuring security, compliance, and scalability
+•	Mentoring development teams
+________________________________________
+3. Infosys — Blockchain Developer to Architect
+📌 Typical Roles
+•	Blockchain Developer
+•	Blockchain Senior Developer
+•	Blockchain Architect / Sr. Technology Lead
+Skills Required
+•	Strong grasp of DLT frameworks: Hyperledger Fabric, R3 Corda, Ethereum 
+•	Knowledge of consensus algorithms and data architecture 
+•	Backend development proficiency (Java, J2EE) and Spring Boot 
+•	Containerization and DevOps basics (Docker, Jenkins) 
+•	Cloud exposure (e.g., Azure) 
+•	Cryptography fundamentals (public/private keys, hashing, encryption) 
+Roles & Responsibilities
+•	Collaborate on client blockchain implementations
+•	Optimize on-chain/off-chain data design
+•	Implement and test smart contracts and decentralized logic
+•	Align solutions with enterprise SDLC and agile practices
+•	Mentor junior engineers on blockchain fundamentals
+________________________________________
+4. Accenture — Blockchain Roles in Tech & Consulting
+(While specific postings vary, Accenture’s profiles often combine blockchain tech with broader digital engineering duties.)
+📌 Common Role Types
+•	Full Stack Engineer with Blockchain focus
+•	Technology Consultant – Blockchain / Emerging Tech
+•	Blockchain or Web3 Specialist roles (strategy and tech)
+ Skills Required
+•	Blockchain Technology proficiency (platform-agnostic for many roles) 
+•	Cloud & DevOps understanding (Azure, AWS, CI/CD) 
+•	Full-stack development (Node.js, React.js can be preferred) 
+•	Agile & collaborative engineering practices 
+🔹 Typical Responsibilities
+•	Engineering blockchain-enabled systems integrated into enterprise apps
+•	Supporting innovation and value delivery for clients
+•	Working with cross-functional teams on cloud and emerging tech solutions
+•	Helping clients move from POC to production with secure solutions (e.g., token standards, smart contracts)
+________________________________________
+5. Common Skills Required Across All Three Companies
+Skill Area	Details
+Blockchain Fundamentals	DLT concepts, consensus mechanisms, cryptography (keys, signatures) 
+Smart Contracts	Solidity/EVM basics or equivalent frameworks 
+DLT Frameworks	Hyperledger Fabric, R3 Corda, Ethereum 
+Backend Dev	Java/Node.js, Spring Boot, API development 
+DevOps Tools	Docker, Jenkins, CI/CD pipelines 
+Cloud Platforms	Azure, AWS/GCP familiarity 
+Software Lifecycle	Full SDLC, Agile methodologies 
+Soft Skills	Communication, teamwork, problem solving 
+________________________________________
+6. Levels & Career Paths
+ Entry / Junior Roles
+•	Blockchain Developer
+•	Full Stack Engineer (blockchain focus)
+Typical requirements: 0–3 years, basic DLT knowledge, backend skills
+ Mid / Specialist Roles
+•	Senior Developer
+•	SME (Subject Matter Expert)
+Typical requirements: 3–6 years, complex implementation experience
+Senior / Architect / Consultant
+•	Blockchain Architect
+•	Blockchain Consultant / CTO level
+Typical requirements: 6–15+ years, strategic design & compliance leadership
+________________________________________
+7. Tips for Professional Documentation
+When putting this into a report or CV section, structure it like this:
+Section: “Blockchain Job Roles in Large IT Consultancies (India)”
+Overview: Role types, companies
+Skills Matrix: Common + company-specific skills
+Responsibilities: By role level
+Tools & Technologies: (Solidity, Hyperledger, Docker, Azure, etc.)
+Career Progression: Junior → Specialist → Architect
+________________________________________
+📌 Example Documentation Snippet
+Blockchain Developers at Wipro, Infosys, and Accenture are expected to have strong understanding of distributed ledger technologies (e.g., Ethereum, Hyperledger, Corda), backend programming (Java/Node.js), and the software development lifecycle. Mid to senior roles require experience with smart contract design, cloud platforms, security protocols, and enterprise integration practices. Architect/Consultant roles add solution design, compliance, and stakeholder leadership responsibilities.
+
